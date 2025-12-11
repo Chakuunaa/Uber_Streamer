@@ -1,0 +1,15 @@
+DATA PREPARETION
+Combining
+
+Inner join -> just things are match, only join the rules together
+
+Outer join ->
+
+left outer join -> only left outer join can that matches
+
+right outer join -> only right outer join can that matches
+
+
+
+@ - Who am I talking about
+# - What  am I talking about
